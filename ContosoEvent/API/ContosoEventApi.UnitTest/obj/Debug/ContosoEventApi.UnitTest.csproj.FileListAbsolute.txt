@@ -1,0 +1,14 @@
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\ContosoEventApi.UnitTest.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\ContosoEventApi.UnitTest.pdb
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\obj\Debug\ContosoEventApi.UnitTest.csproj.AssemblyReference.cache
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\obj\Debug\ContosoEventApi.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\obj\Debug\ContosoEventApi.UnitTest.csproj.CopyComplete
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\obj\Debug\ContosoEventApi.UnitTest.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.UnitTest\obj\Debug\ContosoEventApi.UnitTest.pdb

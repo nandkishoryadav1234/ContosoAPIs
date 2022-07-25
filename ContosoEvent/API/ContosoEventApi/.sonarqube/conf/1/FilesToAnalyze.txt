@@ -1,0 +1,10 @@
+﻿C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\Controllers\EventsController.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\Program.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\Services\IEvent.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\Startup.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\obj\Debug\net5.0\ContosoEventApi.AssemblyInfo.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\obj\Debug\net5.0\ContosoEventApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\appsettings.Development.json
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\appsettings.json
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi\Properties\launchSettings.json

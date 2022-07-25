@@ -1,0 +1,15 @@
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\bin\Debug\net5.0\ContosoEventApi.Model.deps.json
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\bin\Debug\net5.0\ContosoEventApi.Model.runtimeconfig.json
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\bin\Debug\net5.0\ContosoEventApi.Model.runtimeconfig.dev.json
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\bin\Debug\net5.0\ContosoEventApi.Model.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\bin\Debug\net5.0\ref\ContosoEventApi.Model.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\bin\Debug\net5.0\ContosoEventApi.Model.pdb
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.AssemblyInfoInputs.cache
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.AssemblyInfo.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ref\ContosoEventApi.Model.dll
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.pdb
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.genruntimeconfig.cache
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\obj\Debug\net5.0\ContosoEventApi.Model.csproj.AssemblyReference.cache

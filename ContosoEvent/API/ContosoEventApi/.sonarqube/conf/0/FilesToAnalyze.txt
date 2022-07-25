@@ -1,0 +1,5 @@
+﻿C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\Data\EventContext.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\Data\Migrations\20220428025523_Initial Create.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\Data\Migrations\20220428025523_Initial Create.Designer.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\Data\Migrations\EventContextModelSnapshot.cs
+C:\Users\NandKishor.Yadav\LMS\Asp.NetCore WebApi\ContosoAPIs\ContosoEvent\API\ContosoEventApi.Model\Event.cs
